@@ -4,23 +4,25 @@
 - YouTube: ClashCrafter
 
 # Languages: 
-German, English, French
+- German
+- English
+- French
 
 # Programming languages:
 - I program regularly with:
-TypeScript/JavaScript
-C#
+-- `TypeScript`/`JavaScript`
+-- `C#`
 
 - I coded a bit with:
-C++
-C
-Java
-Haskell
-Python
+-- `C++`
+-- `C`
+-- `Java`
+-- `Haskell`
+-- `Python`
 
 - I saw code in:
-rust
-golang
+-- `rust`
+-- `golang`
 
 # Interests in Computer Science
 I like theoretical computer science, but i don't mind when I do hands on stuff.
