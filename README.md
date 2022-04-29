@@ -1,16 +1,35 @@
-### Hi there 👋
+### Florian Strobl
+## Discord: CodeCrafter#0001
+## Stackoverflow: FlorianStrobl
+## YouTube: ClashCrafter
 
-<!--
-**FlorianStrobl/FlorianStrobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Languages: 
+German, English, French
 
-Here are some ideas to get you started:
+# Programming languages:
+- I program regularly with:
+TypeScript/JavaScript
+C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I coded a bit with:
+C++
+C
+Java
+Haskell
+Python
+
+- I saw code in:
+rust
+golang
+
+# Interests in Computer Science
+I like theoretical computer science, but i don't mind when I do hands on stuff.
+I love for example low-level transistor Hardware, building PCs out of modern Hardware (like my Gaming PC), Programming some scripts or tools, ...
+
+# Interests outside of CS
+Mathematics
+Gaming like shooter (Battlefield, Rainbow Six Siege), osu!, genshin impact and Minecraft
+Rubiks cubes (3x3 Personal Best: 10.608s)
+Gaming/High-End Hardware
+Animes
+Watching stuff on YouTube
