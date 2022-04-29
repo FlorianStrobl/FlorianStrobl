@@ -1,7 +1,7 @@
 ### Florian Strobl
-## Discord: CodeCrafter#0001
-## Stackoverflow: FlorianStrobl
-## YouTube: ClashCrafter
+- Discord: CodeCrafter#0001
+- Stackoverflow: FlorianStrobl
+- YouTube: ClashCrafter
 
 # Languages: 
 German, English, French
