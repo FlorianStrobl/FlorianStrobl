@@ -1,5 +1,5 @@
 ### Florian Strobl
-- Discord: CodeCrafter#0001
+- Discord: codecrafter/CodeCrafter#0001/ClashCrafter#7370
 - Stackoverflow: FlorianStrobl
 - YouTube: ClashCrafter
 
@@ -11,14 +11,13 @@
 # Programming languages:
 - I program regularly with:
   - `TypeScript`/`JavaScript`
-  - `C#`
 
 - I coded a bit with:
-  - `C++`
-  - `C`
+  - `C#`
+  - `C++`/`C`
   - `Java`
-  - `Haskell`
   - `Python`
+  - `Haskell`
 
 - I saw code in:
   - `rust`
